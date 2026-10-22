@@ -1,0 +1,13 @@
+{
+    "name": "com.sudstack.utilities",
+    "version": "0.0.1",
+    "displayName": "Utilities",
+    "description": "This package is the invisible backbone for scalable Unity projects. It supplies optimized, pre-built systems to handle repetitive background tasks. Engineered to prevent memory stutters, its independent architecture keeps your codebase clean and adaptable, freeing you to focus strictly on building core gameplay features.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Sudstack",
+        "email": "",
+        "url": "https://github.com/sudstack"
+    },
+    "dependencies": {}
+}
